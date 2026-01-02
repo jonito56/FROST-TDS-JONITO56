@@ -9,8 +9,8 @@ TDS:Mode("Frost")
 TDS:GameInfo("Simplicity", {
     HiddenEnemies = true,
     Glass = true,
-    Committed = true
-    Limitation = true
+    Committed = true,
+    Limitation = true,
     Exploding Enemies = true
 })
 
