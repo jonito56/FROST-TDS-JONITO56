@@ -185,14 +185,12 @@ TDS:Ability(8, "Hologram Tower", {
     towerToClone = 24,
     towerPosition = {
         Vector3.new(-13.79669, 2.23392, 3.47707),
-        Vector3.new(-16.93905, 2.23392, 3.55658),
     }
 }, true)
 TDS:Ability(28, "Hologram Tower", {
     towerToClone = 25,
     towerPosition = {
         Vector3.new(-4.60115, 2.35000, -9.09725),
-        Vector3.new(-1.52041, 2.35000, -9.49057),
     }
 }, true)
 
@@ -213,3 +211,16 @@ TDS:Ability(23, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist 
 TDS:Ability(18, "Support Caravan", {Nill} , true)
 TDS:Ability(19, "Support Caravan", {Nill} , true)
 TDS:Ability(20, "Support Caravan", {Nill} , true)
+
+TDS:Ability(8, "Hologram Tower", {
+    towerToClone = 24,
+    towerPosition = {
+        Vector3.new(-16.93905, 2.23392, 3.55658),
+    }
+}, true)
+TDS:Ability(28, "Hologram Tower", {
+    towerToClone = 25,
+    towerPosition = {
+        Vector3.new(-1.52041, 2.35000, -9.49057),
+    }
+}, true)
