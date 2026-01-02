@@ -185,16 +185,25 @@ TDS:Ability(8, "Hologram Tower", {
     towerToClone = 24,
     towerPosition = {
         Vector3.new(-13.79669, 2.23392, 3.47707),
-        Vector3.new(-2.89872, 2.23392, -8.69056),
+        Vector3.new(-16.93905, 2.23392, 3.55658),
     }
 }, true)
 TDS:Ability(28, "Hologram Tower", {
     towerToClone = 25,
     towerPosition = {
-        Vector3.new(-16.93905, 2.23392, 3.55658),
         Vector3.new(-5.97965, 2.23392, -8.62980),
+        Vector3.new(-2.89872, 2.23392, -8.69056),
     }
 }, true)
+
+TDS Tower Logs Export
+Generated: 2026-01-02 18:54:56
+
+TDS:Place("Default", -13.79669, 2.23392, 3.47707) -- 1
+TDS:Place("Default", -16.93905, 2.23392, 3.55658) -- 2
+TDS:Place("Default", -5.97965, 2.23392, -8.62980) -- 3
+TDS:Place("Default", -2.89872, 2.23392, -8.69056) -- 4
+TDS:Place("Graveyard", -7.79395, 3.46939, -0.58205) -- 5
 
 TDS:SetOption(21, "Unit 1", "Riot Guard", 40)
 TDS:SetOption(21, "Unit 2", "Riot Guard", 40)
