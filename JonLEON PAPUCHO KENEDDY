@@ -174,8 +174,38 @@ TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
+
+TDS:SetOption(21, "Unit 1", "Riot Guard")
+TDS:SetOption(21, "Unit 2", "Riot Guard")
+TDS:SetOption(21, "Unit 3", "Riot Guard")
+TDS:SetOption(22, "Unit 1", "Riot Guard")
+TDS:SetOption(22, "Unit 2", "Riot Guard")
+TDS:SetOption(22, "Unit 3", "Riot Guard")
+TDS:SetOption(23, "Unit 1", "Riot Guard")
+TDS:SetOption(23, "Unit 2", "Riot Guard")
+TDS:SetOption(23, "Unit 3", "Riot Guard")
+
 TDS:Upgrade(30)
 TDS:Upgrade(30)
 TDS:Upgrade(30)
 TDS:Upgrade(30)
 TDS:Upgrade(30)
+
+TDS:Ability(21, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 350}, true)
+TDS:Ability(22, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 350}, true)
+TDS:Ability(23, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 350}, true)
+
+TDS:Ability(8, "Hologram Tower", {
+    towerToClone = 24,
+    towerPosition = {
+        Vector3.new(-25.97120, 2.23392, -11.65353),
+        Vector3.new(5.38031, 2.23390, -6.42522),
+    }
+}, true)
+TDS:Ability(9, "Hologram Tower", {
+    towerToClone = 25,
+    towerPosition = {
+        Vector3.new(-25.98701, 2.23392, -8.55949),
+        Vector3.new(5.52492, 2.23392, -9.50273),
+    }
+}, true)
