@@ -167,8 +167,9 @@ TDS:Upgrade(28, 2)
 
 TDS:Loadout("", "", "", "", "Accelerator")
 
-TDS:Place("Accelerator", -11.81611, 95, 2.90784) -- 6
-TDS:Place("Accelerator", -11.81611, 95, 2.90784) -- 6
+
+TDS:Place("Accelerator", -1.80040, 95, -3.77122) -- 6
+TDS:Place("Accelerator", -1.80040, 95, -3.77122) -- 6
 TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
