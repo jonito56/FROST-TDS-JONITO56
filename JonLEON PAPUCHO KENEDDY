@@ -181,13 +181,28 @@ TDS:Upgrade(30)
 TDS:Upgrade(30)
 TDS:Upgrade(30)
 
+TDS:Ability(8, "Hologram Tower", {
+    towerToClone = 24,
+    towerPosition = {
+        Vector3.new(-13.79669, 2.23392, 3.47707),
+        Vector3.new(-2.89872, 2.23392, -8.69056),
+    }
+}, true)
+TDS:Ability(28, "Hologram Tower", {
+    towerToClone = 25,
+    towerPosition = {
+        Vector3.new(-16.93905, 2.23392, 3.55658),
+        Vector3.new(-5.97965, 2.23392, -8.62980),
+    }
+}, true)
+
 TDS:SetOption(21, "Unit 1", "Riot Guard", 40)
 TDS:SetOption(21, "Unit 2", "Riot Guard", 40)
 TDS:SetOption(21, "Unit 3", "Riot Guard", 40)
 TDS:SetOption(22, "Unit 1", "Riot Guard", 40)
 TDS:SetOption(22, "Unit 2", "Riot Guard", 40)
 TDS:SetOption(22, "Unit 3", "Riot Guard", 40)
-TDS:SetOption(23, "Unit 1", "Riot Guard", 40)
+TDS:SetOption(23, "Unit 1", "Field Medic", 40)
 TDS:SetOption(23, "Unit 2", "Rifleman", 40)
 TDS:SetOption(23, "Unit 3", "Rifleman", 40)
 
@@ -198,19 +213,3 @@ TDS:Ability(23, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist 
 TDS:Ability(18, "Support Caravan", {Nill} , true)
 TDS:Ability(19, "Support Caravan", {Nill} , true)
 TDS:Ability(20, "Support Caravan", {Nill} , true)
-
-TDS:Ability(8, "Hologram Tower", {
-    towerToClone = 24,
-    towerPosition = {
-        Vector3.new(-25.97120, 2.23392, -11.65353),
-        Vector3.new(-25.98701, 2.23392, -8.55949),
-    }
-}, true)
-TDS:Ability(28, "Hologram Tower", {
-    towerToClone = 25,
-    towerPosition = {
-        Vector3.new(5.52492, 2.23392, -9.50273),
-        Vector3.new(5.38031, 2.23390, -6.42522),
-    }
-}, true)
-
