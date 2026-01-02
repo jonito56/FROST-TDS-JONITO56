@@ -10,6 +10,8 @@ TDS:GameInfo("Simplicity", {
     HiddenEnemies = true,
     Glass = true,
     Committed = true
+    Limitation = true
+    Exploding Enemies = true
 })
 
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
