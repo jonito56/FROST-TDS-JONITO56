@@ -6,6 +6,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/raxs0420/test/refs/he
 
 TDS:Loadout("Scout", "Commander", "Hacker", "Mercenary Base", "Warlock")
 
+TDS:Mode("Frost")
+TDS:GameInfo("Simplicity", {
+    HiddenEnemies = true,
+    Glass = true,
+    Committed = true
+    Exploding Enemies = true
+    Limitation = true
+
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
 TDS:Place("Scout", -24.46096, 95, -6.75553) -- 1
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
