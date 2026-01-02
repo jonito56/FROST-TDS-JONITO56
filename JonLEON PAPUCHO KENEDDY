@@ -128,10 +128,10 @@ TDS:Upgrade(19)
 TDS:Upgrade(19)
 TDS:Upgrade(20)
 TDS:Upgrade(20)
-TDS:Place("Warlock", -11.66129, 2.35000, -3.11412) -- 5
+TDS:Place("Warlock", -11.66129, 95, -3.11412) -- 5
 TDS:Upgrade(24)
 TDS:Upgrade(24)
-TDS:Place("Warlock", -11.66129, 2.35000, -3.11412) -- 5
+TDS:Place("Warlock", -11.66129, 95, -3.11412) -- 5
 TDS:Upgrade(25)
 TDS:Upgrade(25)
 TDS:Upgrade(24)
@@ -140,13 +140,13 @@ TDS:Upgrade(24)
 TDS:Upgrade(25)
 TDS:Upgrade(25)
 TDS:Upgrade(25)
-TDS:Place("Warlock", -11.66129, 2.35000, -3.11412) -- 5
+TDS:Place("Warlock", -11.66129, 95, -3.11412) -- 5
 TDS:Upgrade(26)
 TDS:Upgrade(26)
 TDS:Upgrade(26)
 TDS:Upgrade(26)
 TDS:Upgrade(26)
-TDS:Place("Warlock", -11.66129, 2.35000, -3.11412) -- 5
+TDS:Place("Warlock", -11.66129, 95, -3.11412) -- 5
 TDS:Upgrade(27)
 TDS:Upgrade(27)
 TDS:Upgrade(27)
