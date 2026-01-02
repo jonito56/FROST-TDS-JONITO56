@@ -199,13 +199,13 @@ TDS:Ability(8, "Hologram Tower", {
     towerToClone = 24,
     towerPosition = {
         Vector3.new(-25.97120, 2.23392, -11.65353),
-        Vector3.new(5.38031, 2.23390, -6.42522),
+        Vector3.new(-25.98701, 2.23392, -8.55949),
     }
 }, true)
-TDS:Ability(9, "Hologram Tower", {
+TDS:Ability(28, "Hologram Tower", {
     towerToClone = 25,
     towerPosition = {
-        Vector3.new(-25.98701, 2.23392, -8.55949),
         Vector3.new(5.52492, 2.23392, -9.50273),
+        Vector3.new(5.38031, 2.23390, -6.42522),
     }
 }, true)
