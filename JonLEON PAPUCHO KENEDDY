@@ -183,13 +183,13 @@ TDS:Upgrade(30)
 TDS:Ability(8, "Hologram Tower", {
     towerToClone = 24,
     towerPosition = {
-        Vector3.new(-13.79669, 2.23392, 3.47707),
+        Vector3.new(-4.68129, 2.34999, -8.90445),
     }
 }, true)
 TDS:Ability(28, "Hologram Tower", {
     towerToClone = 25,
     towerPosition = {
-        Vector3.new(-4.60115, 2.35000, -9.09725),
+        Vector3.new(-8.90307, 2.23390, 4.06137),
     }
 }, true)
 
@@ -214,12 +214,21 @@ TDS:Ability(20, "Support Caravan", {Nill} , true)
 TDS:Ability(8, "Hologram Tower", {
     towerToClone = 24,
     towerPosition = {
-        Vector3.new(-16.93905, 2.23392, 3.55658),
+        Vector3.new(-1.64598, 2.35000, -9.21702),
     }
 }, true)
 TDS:Ability(28, "Hologram Tower", {
     towerToClone = 25,
     towerPosition = {
-        Vector3.new(-1.52041, 2.35000, -9.49057),
+        Vector3.new(-18.63618, 2.23391, -9.78830),
     }
 }, true)
+
+
+TDS Tower Logs Export
+Generated: 2026-01-02 20:06:52
+
+TDS:Place("Default", -8.90307, 2.23390, 4.06137) -- 1
+TDS:Place("Default", -18.63618, 2.23391, -9.78830) -- 2
+TDS:Place("Default", -4.68129, 2.34999, -8.90445) -- 3
+TDS:Place("Default", -1.64598, 2.35000, -9.21702) -- 4
