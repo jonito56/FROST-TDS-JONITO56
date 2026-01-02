@@ -195,6 +195,10 @@ TDS:Ability(21, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist 
 TDS:Ability(22, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 350}, true)
 TDS:Ability(23, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 350}, true)
 
+TDS:Ability(18, "Support Caravan", {Nill} , true)
+TDS:Ability(19, "Support Caravan", {Nill} , true)
+TDS:Ability(20, "Support Caravan", {Nill} , true)
+
 TDS:Ability(8, "Hologram Tower", {
     towerToClone = 24,
     towerPosition = {
@@ -209,3 +213,4 @@ TDS:Ability(28, "Hologram Tower", {
         Vector3.new(5.38031, 2.23390, -6.42522),
     }
 }, true)
+
