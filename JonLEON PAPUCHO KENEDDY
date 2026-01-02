@@ -6,8 +6,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/raxs0420/test/refs/he
 
 TDS:Loadout("Scout", "Commander", "Hacker", "Mercenary Base", "Warlock")
 
+timer TDS:autoskip(false)TDS:autoskip(false)
+TDS:GetWave()TDS:VoteSkip(1,28, 36)
+
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
-TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
+TDS:Place("Scout", -24.46096, 95, -6.75553) -- 1
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
 TDS:Upgrade(1)
 TDS:Upgrade(2)
@@ -176,6 +179,12 @@ TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
 
+TDS:Upgrade(30)
+TDS:Upgrade(30)
+TDS:Upgrade(30)
+TDS:Upgrade(30)
+TDS:Upgrade(30)
+
 TDS:SetOption(21, "Unit 1", "Riot Guard", 40)
 TDS:SetOption(21, "Unit 2", "Riot Guard", 40)
 TDS:SetOption(21, "Unit 3", "Riot Guard", 40)
@@ -183,14 +192,8 @@ TDS:SetOption(22, "Unit 1", "Riot Guard", 40)
 TDS:SetOption(22, "Unit 2", "Riot Guard", 40)
 TDS:SetOption(22, "Unit 3", "Riot Guard", 40)
 TDS:SetOption(23, "Unit 1", "Riot Guard", 40)
-TDS:SetOption(23, "Unit 2", "Riot Guard", 40)
-TDS:SetOption(23, "Unit 3", "Riot Guard", 40)
-
-TDS:Upgrade(30)
-TDS:Upgrade(30)
-TDS:Upgrade(30)
-TDS:Upgrade(30)
-TDS:Upgrade(30)
+TDS:SetOption(23, "Unit 2", "Rifleman", 40)
+TDS:SetOption(23, "Unit 3", "Rifleman", 40)
 
 TDS:Ability(21, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 350}, true)
 TDS:Ability(22, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 350}, true)
