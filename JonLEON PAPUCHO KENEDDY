@@ -119,6 +119,9 @@ TDS:Upgrade(21)
 TDS:Upgrade(22)
 TDS:Upgrade(22)
 TDS:Upgrade(22)
+
+TDS:SetOption(22, "Unit 1", "Field Medic", 24)
+
 TDS:Upgrade(23)
 TDS:Upgrade(23)
 TDS:Upgrade(23)
