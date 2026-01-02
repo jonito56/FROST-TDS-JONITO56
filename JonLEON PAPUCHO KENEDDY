@@ -167,8 +167,8 @@ TDS:Upgrade(28, 2)
 
 TDS:Loadout("", "", "", "", "Pursuit")
 
-TDS:Place("Pursuit", -0.15660, 95, -4.93049) -- 6
-TDS:Place("Pursuit", -0.15660, 95, -4.93049) -- 6
+TDS:Place("Pursuit", -0.14438, 4.57498, -4.36448) -- 6
+TDS:Place("Pursuit", -0.14438, 4.57498, -4.36448) -- 6
 TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
