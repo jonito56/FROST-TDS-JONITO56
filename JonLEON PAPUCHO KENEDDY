@@ -196,9 +196,6 @@ TDS:Ability(28, "Hologram Tower", {
     }
 }, true)
 
-TDS Tower Logs Export
-Generated: 2026-01-02 18:54:56
-
 TDS:Place("Default", -13.79669, 2.23392, 3.47707) -- 1
 TDS:Place("Default", -16.93905, 2.23392, 3.55658) -- 2
 TDS:Place("Default", -5.97965, 2.23392, -8.62980) -- 3
