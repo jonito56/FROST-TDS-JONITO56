@@ -157,9 +157,6 @@ TDS:Upgrade(27)
 TDS:Upgrade(18)
 TDS:Upgrade(19)
 TDS:Place("Hacker", -10.69892, 95, -9.23184) -- 2
-
-TDS:autoskip(true)
-
 TDS:Upgrade(8)
 TDS:Upgrade(8)
 TDS:Upgrade(8)
