@@ -6,8 +6,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/raxs0420/test/refs/he
 
 TDS:Loadout("Warlock", "Commander", "Scout", "Mercenary Base", "Hacker")
 
-TDS:GetWave(15)TDS:VoteSkip(true)
-
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
 TDS:Place("Scout", -24.46096, 95, -6.75553) -- 1
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
