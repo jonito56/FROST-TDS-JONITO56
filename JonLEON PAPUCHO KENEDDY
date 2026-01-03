@@ -5,14 +5,6 @@ local TDS =
 loadstring(game:HttpGet("https://raw.githubusercontent.com/raxs0420/test/refs/heads/main/library%20new/improved-testlag.lua"))()
 
 TDS:Loadout("Warlock", "Commander", "Scout", "Mercenary Base", "Hacker")
-TDS:Mode("Frost")
-TDS:GameInfo("Simplicity", {
-    HiddenEnemies = true,
-    Glass = true,
-    Committed = true,
-    Limitation = true,
-    ExplodingEnemies = true
-})
 
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
 TDS:Place("Scout", -24.46096, 95, -6.75553) -- 1
@@ -41,6 +33,10 @@ TDS:Upgrade(8)
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
 TDS:Upgrade(9)
 TDS:Upgrade(9)
+
+timer TDS:autoskip(false)TDS:autoskip(false)
+TDS:GetWave(15)TDS:VoteSkip(true)
+
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
 TDS:Upgrade(10)
 TDS:Upgrade(10)
@@ -174,8 +170,8 @@ TDS:Upgrade(28)
 
 TDS:Loadout("Hunter", "Soldier", "Militant", "Sniper", "Harvester")
 
-TDS:Place("Harvester", -14.87808, 95, 3.51654) -- 7
-TDS:Place("Harvester", -14.87808, 95, 3.51654) -- 7
+TDS:Place("Harvester", 14.15599, 95, 9.38280) -- 7
+TDS:Place("Harvester", 14.15599, 95, 9.38280) -- 7
 TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
