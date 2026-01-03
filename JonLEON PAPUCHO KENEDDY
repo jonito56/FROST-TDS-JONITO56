@@ -77,10 +77,6 @@ TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
 TDS:Upgrade(16)
 TDS:Upgrade(16)
 TDS:Upgrade(16)
-TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
-TDS:Upgrade(17)
-TDS:Upgrade(17)
-TDS:Upgrade(17)
 TDS:Place("Commander", -18.37748, 95, -4.68923) -- 3
 TDS:Upgrade(18)
 TDS:Upgrade(18)
@@ -120,7 +116,6 @@ TDS:Upgrade(13)
 TDS:Upgrade(14)
 TDS:Upgrade(15)
 TDS:Upgrade(16)
-TDS:Upgrade(17)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
