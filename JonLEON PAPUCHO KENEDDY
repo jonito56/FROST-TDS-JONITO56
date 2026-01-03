@@ -34,7 +34,6 @@ TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
 TDS:Upgrade(9)
 TDS:Upgrade(9)
 
-timer TDS:autoskip(false)TDS:autoskip(false)
 TDS:GetWave(15)TDS:VoteSkip(true)
 
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
