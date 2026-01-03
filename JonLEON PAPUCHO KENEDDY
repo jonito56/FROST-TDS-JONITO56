@@ -89,7 +89,7 @@ TDS:Upgrade(19)
 
 TDS:AutoChain(17, 18, 19)
 
-TDS:Loadout("Mercenary Base", "Warlock", "Hacker", "Firework Technician", "Scout")
+TDS:Loadout("Mercenary Base", "DJ Booth", "Hacker", "Firework Technician", "Warlock")
 
 TDS:Place("Mercenary Base", -7.76190, 95, -0.41696) -- 4
 TDS:Upgrade(20)
