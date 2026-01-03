@@ -6,8 +6,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/raxs0420/test/refs/he
 
 TDS:Loadout("Warlock", "Commander", "Scout", "Mercenary Base", "Hacker")
 
-TDS:autoskip(true)
-
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
 TDS:Place("Scout", -24.46096, 95, -6.75553) -- 1
 TDS:Place("Scout", -13.76295, 95, -8.90935) -- 1
@@ -145,9 +143,6 @@ TDS:Upgrade(26)
 TDS:Upgrade(26)
 TDS:Upgrade(26)
 TDS:Place("Warlock", -11.66129, 95, -3.11412) -- 6
-
-TDS:autoskip(false)
-
 TDS:Upgrade(17)
 TDS:Upgrade(27)
 TDS:Upgrade(27)
